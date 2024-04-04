@@ -2,8 +2,10 @@ import "./globals.css"
 
 export default function Home() {
   return (
-    <div className="container flex text-center background">
+    <div className="container flex text-center">
       {/*<Image src="/main.jpg" layout="fill" objectFit="cover" alt="background" />*/}
+      <div className="backgroundDesktop2"></div>
+      <div className="backgroundMobile"></div>
       <div className="linkContainer">
         <a
           href="https://www.pinterest.co.kr/canmart051/"
