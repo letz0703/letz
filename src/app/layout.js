@@ -1,8 +1,8 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "Letz Shop Together",
-  description: "Shop Japan"
+  title: "Letz Korea",
+  description: "Best Price in S. Korea"
 }
 
 export default function RootLayout({children}) {
