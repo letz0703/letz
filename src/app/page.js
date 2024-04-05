@@ -1,7 +1,8 @@
 import "./globals.css"
 
 async function getData() {
-  await wait(2000)
+  //await wait(2000)
+  //throw new Error("NOT WORKING")
   return fetch("https://jsonplaceholder.typicode.com/todos").then(r => r.json())
 }
 
