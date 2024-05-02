@@ -13,6 +13,9 @@
   font-size: 1rem;
   letter-spacing: 0.13rem;
 }
+html {
+  /*font-size: 62.5%;*/
+}
 html,
 body {
   margin: 0;

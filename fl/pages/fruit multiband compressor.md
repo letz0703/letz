@@ -1,0 +1,6 @@
+- {{video https://www.youtube.com/watch?v=hUzxzWf1-Nw}}
+	- {{youtube-timestamp 2:40}} fruit compressor 2024.04.26 금
+	- ? AMB가 무슨뜻?
+		- Mute , Bypass {{youtube-timestamp 9:50}}
+		-
+	-

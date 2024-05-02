@@ -1,0 +1,4 @@
+- {{video https://www.youtube.com/watch?v=yi0J9JsRdI4}}
+- attack 시간을 최대로 늘리면 compression을 전혀 하지 않는다는 소리다 {{youtube-timestamp 15:40}}
+	- [[fruit multiband compressor]] 를 사용해서 attack test를 하려는데 사용법을 전혀 모르겠따
+	-
