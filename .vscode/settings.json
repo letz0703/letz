@@ -89,5 +89,7 @@
       }
     ]
   },
-  "workbench.colorTheme": "GitHub Dark Dimmed"
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "prettier.embeddedLanguageFormatting": "off",
+  "files.autoSave": "onFocusChange"
 }
