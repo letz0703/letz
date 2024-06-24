@@ -91,5 +91,9 @@
   },
   "workbench.colorTheme": "GitHub Dark Dimmed",
   "prettier.embeddedLanguageFormatting": "off",
-  "files.autoSave": "onFocusChange"
+  "files.autoSave": "onFocusChange",
+  "accessibility.signals.lineHasError": {
+    "sound": "off",
+    "announcement": "off"
+  }
 }
